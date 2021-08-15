@@ -1,2 +1,2 @@
-# HospitalManagementApp
-Angular Applications with appointment booking option with spring boot as backend
+# HallBookingApp
+Angular Applications with hall booking option with spring boot as backend
